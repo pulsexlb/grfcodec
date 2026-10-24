@@ -188,6 +188,7 @@ NDF_HEADER(0x04, 18),
 /*19*/ OFFSET,          OPTIONS(1), 0x04,
 /*1A*/ OFFSET,          OPTIONS(1), 0x5F,
 /*1B*/ OFFSET,          OPTIONS(1), 0x18,
+/*1C*/ OFFSET,          OPTIONS(1), 0x00,
 00,
 NDF_END
 };
